@@ -1,7 +1,9 @@
-# usa-stocks-zach-score
+# usa-stocks-daily-score
 
+
+## Zach Crawler:
 Extract all the indexes from Stock Exchange (NASDAQ/NYSE) and extract their latest ZACH SCORE
-(Zach Crawler)
+
 ```
 pip install -r requirements.txt
 python zach_rank/crawl_zach.py
