@@ -1,4 +1,4 @@
-# usa-stocks-zach-rank
+# usa-stocks-zach-score
 
 Extract all the indexes from Stock Exchange (NASDAQ/NYSE) and extract their latest ZACH SCORE
 ```
